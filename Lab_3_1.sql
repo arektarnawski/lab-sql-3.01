@@ -28,7 +28,7 @@ VALUES ('2021-11-01 13:56:01', 3, 130, 0, 2,'2021-11-01 14:00:00');
 -- Define primary keys and foreign keys for the new database.
 
 -- While the diagram tools are nice (I didn't know them before), I think this database has an optimal
--- shape right now, as it is officlally shared by MySQL. It alread has the PK and FK constraints.
+-- shape right now, as it is officlally shared by MySQL. It already has the PK and FK constraints.
 
 -- Without any additional project/business related information, no new/more optimal structure
 -- can be derived, without eliminating any possibly necessary information.
